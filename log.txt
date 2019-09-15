@@ -466,3 +466,434 @@ Data:{
   "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
 }
 -------------------------------
+Search:London
+Data:{
+  "place_id": 100145,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 107775,
+  "boundingbox": [
+    "51.3473219",
+    "51.6673219",
+    "-0.2876474",
+    "0.0323526"
+  ],
+  "lat": "51.5073219",
+  "lon": "-0.1276474",
+  "display_name": "London, Greater London, England, SW1A 2DX, United Kingdom",
+  "class": "place",
+  "type": "city",
+  "importance": 0.975489576540198,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:London
+Data:{
+  "place_id": 100145,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 107775,
+  "boundingbox": [
+    "51.3473219",
+    "51.6673219",
+    "-0.2876474",
+    "0.0323526"
+  ],
+  "lat": "51.5073219",
+  "lon": "-0.1276474",
+  "display_name": "London, Greater London, England, SW1A 2DX, United Kingdom",
+  "class": "place",
+  "type": "city",
+  "importance": 0.975489576540198,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:undefined
+Data:{
+  "place_id": 271980190,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 6700849280,
+  "boundingbox": [
+    "-15.8411274",
+    "-15.8011274",
+    "46.6799841",
+    "46.7199841"
+  ],
+  "lat": "-15.8211274",
+  "lon": "46.6999841",
+  "display_name": "undefined, Boeny, Province de Mahajanga, Madagascar",
+  "class": "place",
+  "type": "village",
+  "importance": 0.385,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
+}
+-------------------------------
+Search:undefined
+Data:{
+  "place_id": 271980190,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 6700849280,
+  "boundingbox": [
+    "-15.8411274",
+    "-15.8011274",
+    "46.6799841",
+    "46.7199841"
+  ],
+  "lat": "-15.8211274",
+  "lon": "46.6999841",
+  "display_name": "undefined, Boeny, Province de Mahajanga, Madagascar",
+  "class": "place",
+  "type": "village",
+  "importance": 0.385,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
+}
+-------------------------------
+Search:undefined
+Data:{
+  "place_id": 271980190,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 6700849280,
+  "boundingbox": [
+    "-15.8411274",
+    "-15.8011274",
+    "46.6799841",
+    "46.7199841"
+  ],
+  "lat": "-15.8211274",
+  "lon": "46.6999841",
+  "display_name": "undefined, Boeny, Province de Mahajanga, Madagascar",
+  "class": "place",
+  "type": "village",
+  "importance": 0.385,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
+}
+-------------------------------
+Search:undefined
+Data:{
+  "place_id": 271980190,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 6700849280,
+  "boundingbox": [
+    "-15.8411274",
+    "-15.8011274",
+    "46.6799841",
+    "46.7199841"
+  ],
+  "lat": "-15.8211274",
+  "lon": "46.6999841",
+  "display_name": "undefined, Boeny, Province de Mahajanga, Madagascar",
+  "class": "place",
+  "type": "village",
+  "importance": 0.385,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
+}
+-------------------------------
+Search:London
+Data:{
+  "place_id": 100145,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 107775,
+  "boundingbox": [
+    "51.3473219",
+    "51.6673219",
+    "-0.2876474",
+    "0.0323526"
+  ],
+  "lat": "51.5073219",
+  "lon": "-0.1276474",
+  "display_name": "London, Greater London, England, SW1A 2DX, United Kingdom",
+  "class": "place",
+  "type": "city",
+  "importance": 0.975489576540198,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:Paris
+Data:{
+  "place_id": 198006226,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 7444,
+  "boundingbox": [
+    "48.8155755",
+    "48.902156",
+    "2.224122",
+    "2.4697602"
+  ],
+  "lat": "48.8566101",
+  "lon": "2.3514992",
+  "display_name": "Paris, Île-de-France, France métropolitaine, France",
+  "class": "place",
+  "type": "city",
+  "importance": 0.978934599321907,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:Sydney
+Data:{
+  "place_id": 198993911,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 5750005,
+  "boundingbox": [
+    "-34.1732416",
+    "-33.3641481",
+    "150.260825",
+    "151.3427428"
+  ],
+  "lat": "-33.8548157",
+  "lon": "151.2164539",
+  "display_name": "Sydney, Blacktown, NSW, Australia",
+  "class": "place",
+  "type": "city",
+  "importance": 0.8523536703831199,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:Rio
+Data:{
+  "place_id": 198709044,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 2697338,
+  "boundingbox": [
+    "-23.0827051",
+    "-22.7460878",
+    "-43.796252",
+    "-43.0990811"
+  ],
+  "lat": "-22.9110137",
+  "lon": "-43.2093727",
+  "display_name": "Rio de Janeiro, Microrregião Rio de Janeiro, Região Metropolitana do Rio de Janeiro, RJ, Região Sudeste, Brasil",
+  "class": "boundary",
+  "type": "administrative",
+  "importance": 0.752990329099158,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+}
+-------------------------------
+Search:Alaska
+Data:{
+  "place_id": 198384863,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 1116270,
+  "boundingbox": [
+    "51.0228712",
+    "71.6048217",
+    "-180",
+    "180"
+  ],
+  "lat": "64.4459613",
+  "lon": "-149.680909",
+  "display_name": "Alaska, United States of America",
+  "class": "boundary",
+  "type": "administrative",
+  "importance": 0.838753749970259,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+}
+-------------------------------
+Search:Toronto
+Data:{
+  "place_id": 110816,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 18063533,
+  "boundingbox": [
+    "43.493963",
+    "43.813963",
+    "-79.547207",
+    "-79.227207"
+  ],
+  "lat": "43.653963",
+  "lon": "-79.387207",
+  "display_name": "Toronto, Golden Horseshoe, Ontario, M6K 1X9, Canada",
+  "class": "place",
+  "type": "city",
+  "importance": 0.846077038952242,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:0 0
+Data:{
+  "place_id": 170795035,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "way",
+  "osm_id": 429864957,
+  "boundingbox": [
+    "-26.7571524",
+    "-26.7556339",
+    "30.4007497",
+    "30.40242"
+  ],
+  "lat": "-26.7564283",
+  "lon": "30.4015822484877",
+  "display_name": "0.0, ERNSDRAAI, Msukaligwa, Gert Sibande, Mpumalanga, South Africa",
+  "class": "landuse",
+  "type": "forest",
+  "importance": 0.4
+}
+-------------------------------
+Search:1,1
+Data:{
+  "place_id": 198701809,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 4127652,
+  "boundingbox": [
+    "41.3703449",
+    "41.3859535",
+    "2.1630917",
+    "2.1830472"
+  ],
+  "lat": "41.3795176",
+  "lon": "2.1683678",
+  "display_name": "el Raval, Ciutat Vella, Barcelona, BCN, CAT, 08001, España",
+  "class": "boundary",
+  "type": "administrative",
+  "importance": 0.552207654044433,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+}
+-------------------------------
+Search:
+Data:undefined
+-------------------------------
+Search:1,1
+Data:{
+  "place_id": 198701809,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 4127652,
+  "boundingbox": [
+    "41.3703449",
+    "41.3859535",
+    "2.1630917",
+    "2.1830472"
+  ],
+  "lat": "41.3795176",
+  "lon": "2.1683678",
+  "display_name": "el Raval, Ciutat Vella, Barcelona, BCN, CAT, 08001, España",
+  "class": "boundary",
+  "type": "administrative",
+  "importance": 0.552207654044433,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+}
+-------------------------------
+Search:
+Data:undefined
+-------------------------------
+Search:
+Data:undefined
+-------------------------------
+Search:
+Data:undefined
+-------------------------------
+Search:London
+Data:{
+  "place_id": 100145,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 107775,
+  "boundingbox": [
+    "51.3473219",
+    "51.6673219",
+    "-0.2876474",
+    "0.0323526"
+  ],
+  "lat": "51.5073219",
+  "lon": "-0.1276474",
+  "display_name": "London, Greater London, England, SW1A 2DX, United Kingdom",
+  "class": "place",
+  "type": "city",
+  "importance": 0.975489576540198,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:London
+Data:{
+  "place_id": 100145,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 107775,
+  "boundingbox": [
+    "51.3473219",
+    "51.6673219",
+    "-0.2876474",
+    "0.0323526"
+  ],
+  "lat": "51.5073219",
+  "lon": "-0.1276474",
+  "display_name": "London, Greater London, England, SW1A 2DX, United Kingdom",
+  "class": "place",
+  "type": "city",
+  "importance": 0.975489576540198,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:London
+Data:{
+  "place_id": 100145,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 107775,
+  "boundingbox": [
+    "51.3473219",
+    "51.6673219",
+    "-0.2876474",
+    "0.0323526"
+  ],
+  "lat": "51.5073219",
+  "lon": "-0.1276474",
+  "display_name": "London, Greater London, England, SW1A 2DX, United Kingdom",
+  "class": "place",
+  "type": "city",
+  "importance": 0.975489576540198,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:Sydney
+Data:{
+  "place_id": 198993911,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 5750005,
+  "boundingbox": [
+    "-34.1732416",
+    "-33.3641481",
+    "150.260825",
+    "151.3427428"
+  ],
+  "lat": "-33.8548157",
+  "lon": "151.2164539",
+  "display_name": "Sydney, Blacktown, NSW, Australia",
+  "class": "place",
+  "type": "city",
+  "importance": 0.8523536703831199,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:Paris
+Data:{
+  "place_id": 198006226,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 7444,
+  "boundingbox": [
+    "48.8155755",
+    "48.902156",
+    "2.224122",
+    "2.4697602"
+  ],
+  "lat": "48.8566101",
+  "lon": "2.3514992",
+  "display_name": "Paris, Île-de-France, France métropolitaine, France",
+  "class": "place",
+  "type": "city",
+  "importance": 0.978934599321907,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
