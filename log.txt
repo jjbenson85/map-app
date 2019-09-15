@@ -1,0 +1,468 @@
+Search:Oslo
+Data:{
+  "place_id": 113265,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 20981158,
+  "boundingbox": [
+    "59.7533301",
+    "60.0733301",
+    "10.5789701",
+    "10.8989701"
+  ],
+  "lat": "59.9133301",
+  "lon": "10.7389701",
+  "display_name": "Oslo, 0026, Norge",
+  "class": "place",
+  "type": "city",
+  "importance": 0.847077749141634,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:
+Data:undefined
+-------------------------------
+Search:
+Data:undefined
+-------------------------------
+Search:
+Data:undefined
+-------------------------------
+Search:
+Data:undefined
+-------------------------------
+Search:Istanbul
+Data:{
+  "place_id": 19624558,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 1882099475,
+  "boundingbox": [
+    "40.8496334",
+    "41.1696334",
+    "28.8051646",
+    "29.1251646"
+  ],
+  "lat": "41.0096334",
+  "lon": "28.9651646",
+  "display_name": "İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34126, Türkiye",
+  "class": "place",
+  "type": "city",
+  "importance": 0.734893715820342,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:columbo
+Data:{
+  "place_id": 13720558,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 1242905570,
+  "boundingbox": [
+    "43.1452626",
+    "43.1652626",
+    "-5.5670846",
+    "-5.5470846"
+  ],
+  "lat": "43.1552626",
+  "lon": "-5.5570846",
+  "display_name": "Columbo, Aller, Asturias / Asturies, España",
+  "class": "place",
+  "type": "locality",
+  "importance": 0.35,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
+}
+-------------------------------
+Search:colombo
+Data:{
+  "place_id": 197347619,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 16132,
+  "boundingbox": [
+    "6.8626355",
+    "6.9813596",
+    "79.82245",
+    "79.8900031"
+  ],
+  "lat": "6.9218124",
+  "lon": "79.8655608840961",
+  "display_name": "Colombo, කොළඹ දිස්ත්‍රික්කය, Western Province, ශ්‍රී ලංකාව இலங்கை",
+  "class": "place",
+  "type": "city",
+  "importance": 0.6941121937545109,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:colombia
+Data:{
+  "place_id": 197766987,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 120027,
+  "boundingbox": [
+    "-4.2316872",
+    "16.0571269",
+    "-82.1243666",
+    "-66.8511907"
+  ],
+  "lat": "2.8894434",
+  "lon": "-73.783892",
+  "display_name": "Colombia",
+  "class": "boundary",
+  "type": "administrative",
+  "importance": 0.893685623673027,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+}
+-------------------------------
+Search:~~~~~~~~~~~~
+Data:undefined
+-------------------------------
+Search:~~~~~~~~~~~~
+Data:undefined
+-------------------------------
+Search:~~~~~~~~~~~~
+Data:undefined
+-------------------------------
+Search:~~~~~~~~~~~~
+Data:undefined
+-------------------------------
+Search:
+Data:undefined
+-------------------------------
+Search:London
+Data:{
+  "place_id": 100145,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 107775,
+  "boundingbox": [
+    "51.3473219",
+    "51.6673219",
+    "-0.2876474",
+    "0.0323526"
+  ],
+  "lat": "51.5073219",
+  "lon": "-0.1276474",
+  "display_name": "London, Greater London, England, SW1A 2DX, United Kingdom",
+  "class": "place",
+  "type": "city",
+  "importance": 0.975489576540198,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:London
+Data:{
+  "place_id": 100145,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 107775,
+  "boundingbox": [
+    "51.3473219",
+    "51.6673219",
+    "-0.2876474",
+    "0.0323526"
+  ],
+  "lat": "51.5073219",
+  "lon": "-0.1276474",
+  "display_name": "London, Greater London, England, SW1A 2DX, United Kingdom",
+  "class": "place",
+  "type": "city",
+  "importance": 0.975489576540198,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:London
+Data:{
+  "place_id": 100145,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 107775,
+  "boundingbox": [
+    "51.3473219",
+    "51.6673219",
+    "-0.2876474",
+    "0.0323526"
+  ],
+  "lat": "51.5073219",
+  "lon": "-0.1276474",
+  "display_name": "London, Greater London, England, SW1A 2DX, United Kingdom",
+  "class": "place",
+  "type": "city",
+  "importance": 0.975489576540198,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:london
+Data:{
+  "place_id": 100145,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 107775,
+  "boundingbox": [
+    "51.3473219",
+    "51.6673219",
+    "-0.2876474",
+    "0.0323526"
+  ],
+  "lat": "51.5073219",
+  "lon": "-0.1276474",
+  "display_name": "London, Greater London, England, SW1A 2DX, United Kingdom",
+  "class": "place",
+  "type": "city",
+  "importance": 0.965489576540198,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:London
+Data:{
+  "place_id": 100145,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 107775,
+  "boundingbox": [
+    "51.3473219",
+    "51.6673219",
+    "-0.2876474",
+    "0.0323526"
+  ],
+  "lat": "51.5073219",
+  "lon": "-0.1276474",
+  "display_name": "London, Greater London, England, SW1A 2DX, United Kingdom",
+  "class": "place",
+  "type": "city",
+  "importance": 0.975489576540198,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:London
+Data:{
+  "place_id": 100145,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 107775,
+  "boundingbox": [
+    "51.3473219",
+    "51.6673219",
+    "-0.2876474",
+    "0.0323526"
+  ],
+  "lat": "51.5073219",
+  "lon": "-0.1276474",
+  "display_name": "London, Greater London, England, SW1A 2DX, United Kingdom",
+  "class": "place",
+  "type": "city",
+  "importance": 0.975489576540198,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:London
+Data:{
+  "place_id": 100145,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 107775,
+  "boundingbox": [
+    "51.3473219",
+    "51.6673219",
+    "-0.2876474",
+    "0.0323526"
+  ],
+  "lat": "51.5073219",
+  "lon": "-0.1276474",
+  "display_name": "London, Greater London, England, SW1A 2DX, United Kingdom",
+  "class": "place",
+  "type": "city",
+  "importance": 0.975489576540198,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:Paris
+Data:{
+  "place_id": 198006226,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 7444,
+  "boundingbox": [
+    "48.8155755",
+    "48.902156",
+    "2.224122",
+    "2.4697602"
+  ],
+  "lat": "48.8566101",
+  "lon": "2.3514992",
+  "display_name": "Paris, Île-de-France, France métropolitaine, France",
+  "class": "place",
+  "type": "city",
+  "importance": 0.978934599321907,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:Sydney
+Data:{
+  "place_id": 198993911,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 5750005,
+  "boundingbox": [
+    "-34.1732416",
+    "-33.3641481",
+    "150.260825",
+    "151.3427428"
+  ],
+  "lat": "-33.8548157",
+  "lon": "151.2164539",
+  "display_name": "Sydney, Blacktown, NSW, Australia",
+  "class": "place",
+  "type": "city",
+  "importance": 0.8523536703831199,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:London
+Data:{
+  "place_id": 100145,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 107775,
+  "boundingbox": [
+    "51.3473219",
+    "51.6673219",
+    "-0.2876474",
+    "0.0323526"
+  ],
+  "lat": "51.5073219",
+  "lon": "-0.1276474",
+  "display_name": "London, Greater London, England, SW1A 2DX, United Kingdom",
+  "class": "place",
+  "type": "city",
+  "importance": 0.975489576540198,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:Sydney
+Data:{
+  "place_id": 198993911,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 5750005,
+  "boundingbox": [
+    "-34.1732416",
+    "-33.3641481",
+    "150.260825",
+    "151.3427428"
+  ],
+  "lat": "-33.8548157",
+  "lon": "151.2164539",
+  "display_name": "Sydney, Blacktown, NSW, Australia",
+  "class": "place",
+  "type": "city",
+  "importance": 0.8523536703831199,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:London
+Data:{
+  "place_id": 100145,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 107775,
+  "boundingbox": [
+    "51.3473219",
+    "51.6673219",
+    "-0.2876474",
+    "0.0323526"
+  ],
+  "lat": "51.5073219",
+  "lon": "-0.1276474",
+  "display_name": "London, Greater London, England, SW1A 2DX, United Kingdom",
+  "class": "place",
+  "type": "city",
+  "importance": 0.975489576540198,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:London
+Data:{
+  "place_id": 100145,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 107775,
+  "boundingbox": [
+    "51.3473219",
+    "51.6673219",
+    "-0.2876474",
+    "0.0323526"
+  ],
+  "lat": "51.5073219",
+  "lon": "-0.1276474",
+  "display_name": "London, Greater London, England, SW1A 2DX, United Kingdom",
+  "class": "place",
+  "type": "city",
+  "importance": 0.975489576540198,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:Sydney
+Data:{
+  "place_id": 198993911,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 5750005,
+  "boundingbox": [
+    "-34.1732416",
+    "-33.3641481",
+    "150.260825",
+    "151.3427428"
+  ],
+  "lat": "-33.8548157",
+  "lon": "151.2164539",
+  "display_name": "Sydney, Blacktown, NSW, Australia",
+  "class": "place",
+  "type": "city",
+  "importance": 0.8523536703831199,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:Oslo
+Data:{
+  "place_id": 113265,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 20981158,
+  "boundingbox": [
+    "59.7533301",
+    "60.0733301",
+    "10.5789701",
+    "10.8989701"
+  ],
+  "lat": "59.9133301",
+  "lon": "10.7389701",
+  "display_name": "Oslo, 0026, Norge",
+  "class": "place",
+  "type": "city",
+  "importance": 0.847077749141634,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+}
+-------------------------------
+Search:Rio
+Data:{
+  "place_id": 198709044,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 2697338,
+  "boundingbox": [
+    "-23.0827051",
+    "-22.7460878",
+    "-43.796252",
+    "-43.0990811"
+  ],
+  "lat": "-22.9110137",
+  "lon": "-43.2093727",
+  "display_name": "Rio de Janeiro, Microrregião Rio de Janeiro, Região Metropolitana do Rio de Janeiro, RJ, Região Sudeste, Brasil",
+  "class": "boundary",
+  "type": "administrative",
+  "importance": 0.752990329099158,
+  "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png"
+}
+-------------------------------

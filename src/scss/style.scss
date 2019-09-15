@@ -1,0 +1,103 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+$family-sans-serif: 'Roboto', sans-serif;
+$navbar-breakpoint: 600px;
+
+@import "../../node_modules/bulma/bulma.sass";
+
+
+*{
+    box-sizing: border-box;
+}
+
+.map{
+    width: 100vw;
+    height: 100vh;
+}
+
+.custom-marker{
+    color: white;
+    padding: 0px 2px;
+    background: #3273dc;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.search{
+    position: absolute;
+    z-index: 1;
+    top: 40px;
+    left: 40px;
+    button{
+        align-items: center;
+        border: 1px solid transparent;
+        border-radius: 4px;
+        box-shadow: none;
+        display: inline-flex;
+        font-size: 1rem;
+        height: 2.25em;
+        line-height: 1.5;
+        position: relative;
+        vertical-align: top;
+
+
+        border-width: 1px;
+        cursor: pointer;
+        justify-content: center;
+        padding-bottom: calc(.375em - 1px);
+        padding-left: .75em;
+        padding-right: .75em;
+        padding-top: calc(.375em - 1px);
+        text-align: center;
+        white-space: nowrap;
+
+        background-color: #3273dc;
+        border-color: transparent;
+        color: #fff;
+
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+
+        margin: 0;
+
+        outline: none;
+
+        &:hover, &:focus{
+            border-color: #00d1b2;
+        }
+    }
+    input{
+        margin: 0;
+        -webkit-appearance: none;
+        align-items: center;
+        border: 1px solid transparent;
+        display: inline-flex;
+        font-size: 1rem;
+        height: 2.25em;
+        justify-content: flex-start;
+        line-height: 1.5;
+        padding-bottom: calc(.375em - 1px);
+        padding-left: calc(.625em - 1px);
+        padding-right: calc(.625em - 1px);
+        padding-top: calc(.375em - 1px);
+        position: relative;
+        vertical-align: top;
+
+        background-color: #fff;
+        border-color: #dbdbdb;
+        border-radius: 4px;
+        color: #363636;
+        
+        box-shadow:inset 0 1px 2px rgba(10,10,10,.1);
+
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+
+        outline: none;
+
+        &:hover, &:focus{
+            border-color: #00d1b2;
+        }
+    }
+}
