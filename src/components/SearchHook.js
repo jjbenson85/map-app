@@ -20,7 +20,7 @@ const Search = ({ updateSearchResults }) => {
           name="search"
           value={formData}
         />
-        <button>Submit</button>
+        <button>Search</button>
       </form>
     </div>
   );

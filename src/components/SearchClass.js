@@ -7,7 +7,7 @@ class Search extends React.Component {
 
     this.state = {
       formData: {
-        search: "",
+        search: ""
       }
     };
 
@@ -26,7 +26,7 @@ class Search extends React.Component {
       .get(`/api/location?search=${this.state.formData.search}`)
       .then(res => {
         this.props.updateSearchResults(res.data);
-        this.setState({formData:{search:""}})
+        this.setState({ formData: { search: "" } });
       });
   }
 
@@ -39,7 +39,7 @@ class Search extends React.Component {
             name="search"
             value={this.state.formData.search}
           />
-          <button>Submit</button>
+          <button>Search</button>
         </form>
       </div>
     );
